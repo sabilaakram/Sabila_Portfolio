@@ -39,7 +39,7 @@ export default function HeroContent(){
                 <motion.a
                 variants={slideInFromLeft(1)}
                 className = "py-2 button-primary text-center text-white curser-pointer rounded-lg max-w-[200px]"
-                href = "/Sabila's CV'.pdf"
+                href = "/Sabila's CV.pdf"
                 target = "_blank"
                 >
                     Download CV!
